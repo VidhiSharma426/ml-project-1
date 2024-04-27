@@ -47,7 +47,7 @@ The recommender system successfully generates personalized movie recommendations
 
 ## Contributors
 
-- [Your Name](https://github.com/VidhiSharma426)
+- [vidhi sharma](https://github.com/VidhiSharma426)
 
 
 This project is licensed under the [MIT License](LICENSE).
